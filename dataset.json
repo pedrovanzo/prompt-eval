@@ -1,0 +1,11 @@
+[
+  {
+    "task": "Write a Python function that takes an S3 bucket name and prefix, and returns a list of all object keys using boto3's paginator to handle buckets with more than 1000 objects."
+  },
+  {
+    "task": "Write a JSON IAM policy document that allows a Lambda function to read objects from a specific S3 bucket and write logs to CloudWatch Logs, following least-privilege principles."
+  },
+  {
+    "task": "Write a regular expression that validates an AWS ARN format, matching strings like 'arn:aws:s3:::my-bucket' or 'arn:aws:iam::123456789012:role/MyRole' while rejecting malformed ARNs."
+  }
+]
